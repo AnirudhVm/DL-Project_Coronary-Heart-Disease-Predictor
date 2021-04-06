@@ -1,5 +1,6 @@
 # DL-Project_Coronary-Heart-Disease-Predictor
-Creators:Anirudh VM(J061), Harsh Mahajan(J027)  
+Creators:Anirudh VM(J061), Harsh Mahajan(J027) 
+```
 A machine learning tool based on the Framingham Heart Disease Study    
 
 The tool takes input as  
@@ -16,7 +17,7 @@ Diastolic BP
 Body Mass Index  
 Resting heartRate  
 Glucose  
-
+```
 ## How to launch this?
 ``` 
 1.cd to the drive where this repository is located.
