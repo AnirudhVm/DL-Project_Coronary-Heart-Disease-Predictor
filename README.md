@@ -27,4 +27,7 @@ Glucose
 
 
 <p align="left"><img src="results/1.png" width="1280"\></p>
+<p align="left"><img src="results/2.png" width="1280"\></p>
+<p align="left"><img src="results/3.png" width="1280"\></p>
+<p align="left"><img src="results/4.png" width="1280"\></p>
 
