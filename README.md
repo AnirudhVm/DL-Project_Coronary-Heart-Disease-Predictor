@@ -1,5 +1,5 @@
 # DL-Project_Coronary-Heart-Disease-Predictor
-A machine learning tool based on the Framingham Heart Disease Study  
+A machine learning tool based on the Framingham Heart Disease Study    
 The tool takes input as  
 Gender  
 Smoking Status  
