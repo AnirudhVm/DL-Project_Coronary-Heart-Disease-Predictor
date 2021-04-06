@@ -23,3 +23,9 @@ Glucose
 3.streamlit run heart.py
 
 ```
+## Results
+```
+
+<p align="left"><img src="results/1.png" width="1280"\></p>
+
+```
