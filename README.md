@@ -24,8 +24,7 @@ Glucose
 
 ```
 ## Results
-```
+
 
 <p align="left"><img src="results/1.png" width="1280"\></p>
 
-```
