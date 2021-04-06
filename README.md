@@ -1,5 +1,6 @@
 # DL-Project_Coronary-Heart-Disease-Predictor
 A machine learning tool based on the Framingham Heart Disease Study    
+
 The tool takes input as  
 Gender  
 Smoking Status  
@@ -15,3 +16,10 @@ Body Mass Index
 Resting heartRate  
 Glucose  
 
+## How to launch this?
+``` 
+1.cd to the drive where this repository is located.
+2.pip install streamlit
+3.streamlit run heart.py
+
+```
